@@ -55,7 +55,6 @@ Dataset ini berisi tweet berbahasa Indonesia yang telah diberi label sentimen:
 ## Informasi Penulis
 
 Nama: Nela Eka Silvia Lumbanraja  
-Email: nelanaingolan43@gmail.com  
 Tanggal: 16 Juli 2026
 
 ## File dalam Repositori
